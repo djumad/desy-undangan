@@ -1,7 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import foto from "../assets/foto.jpg";
-  let nama = "Dessy Grecya Gultom";
+  let nama = "Raymond Setiabudhy";
   let acara = "Wisuda Politeknik Negeri Ambon";
   let tanggal = "28 Desember 2024";
   let waktu = "15:00 WIT";
@@ -39,7 +39,7 @@
         </p>
         <div class="rounded-lg bg-gray-200 shadow-md p-6 space-y-4">
           <div>
-            <p class="text-sm text-gray-500">Nama Tamu:</p>
+            <p class="text-sm text-gray-500">Turut mengundang:</p>
             <p class="text-lg font-semibold text-gray-800">{nama}</p>
           </div>
           <div>
