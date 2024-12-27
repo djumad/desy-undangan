@@ -39,7 +39,7 @@
         </p>
         <div class="rounded-lg bg-gray-200 shadow-md p-6 space-y-4">
           <div>
-            <p class="text-sm text-gray-500">Turut mengundang:</p>
+            <p class="text-sm text-gray-500">Tempat Kediaman:</p>
             <p class="text-lg font-semibold text-gray-800">{nama}</p>
           </div>
           <div>
